@@ -10,7 +10,7 @@ pool:
   name: SLocal
 
 variables:
-  buildConfiguration: 'Release'
+ # buildConfiguration: 'Release'
 
 steps:
 - task: DotNetCoreCLI@2
