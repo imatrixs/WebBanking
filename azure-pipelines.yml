@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Local
+  name: SLocal
 
 variables:
   buildConfiguration: 'Release'
